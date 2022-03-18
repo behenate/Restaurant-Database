@@ -21,7 +21,7 @@ The project was created by
 
 ##### Datagrip:
 
-![schema_datagrip](C:\Users\behen\Documents\Studia\Semestr_III\PBD\DatabaseExport\schema_datagrip.png)
+![schema_datagrip](schema_datagrip.png)
 
 
 
