@@ -1,0 +1,10 @@
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (5, 1, 4);
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (9, 2, 5);
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (10, 3, 5);
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (11, 10, 10);
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (11, 11, 10);
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (13, 3, 2);
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (16, 1, 3);
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (17, 6, 3);
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (24, 3, 2);
+INSERT INTO u_wdrozdz.dbo.PrivateReservationDetails (ReservationID, TableID, GuestsNumber) VALUES (33, 1, 2);

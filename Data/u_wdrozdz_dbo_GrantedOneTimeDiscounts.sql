@@ -1,0 +1,12 @@
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (1, N'2022-01-10 00:42:04.000', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (2, N'2022-01-24 22:42:45.903', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (3, N'2022-01-12 00:42:04.000', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (4, N'2022-01-13 00:42:04.000', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (5, N'2022-01-15 15:58:19.427', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (6, N'2022-01-10 00:42:04.000', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (7, N'2022-01-12 00:42:04.000', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (8, N'2022-01-13 00:42:04.000', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (9, N'2022-01-10 00:42:04.000', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (10, N'2022-01-12 00:42:04.000', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (16, N'2022-01-13 00:42:04.000', 4);
+INSERT INTO u_wdrozdz.dbo.GrantedOneTimeDiscounts (CustomerID, ActiveFrom, DiscountID) VALUES (27, N'2022-01-27 13:58:06.193', 4);

@@ -1,0 +1,5 @@
+INSERT INTO u_wdrozdz.dbo.CompanyReservations (ReservationID, CompanyID, TimeFrom, TimeTo) VALUES (1, 1, N'2022-01-12 19:58:11.000', N'2022-01-12 22:58:11.000');
+INSERT INTO u_wdrozdz.dbo.CompanyReservations (ReservationID, CompanyID, TimeFrom, TimeTo) VALUES (3, 4, N'2021-12-12 16:02:26.000', N'2022-01-13 20:58:11.000');
+INSERT INTO u_wdrozdz.dbo.CompanyReservations (ReservationID, CompanyID, TimeFrom, TimeTo) VALUES (4, 11, N'2022-01-14 15:11:13.000', N'2022-01-14 19:11:13.000');
+INSERT INTO u_wdrozdz.dbo.CompanyReservations (ReservationID, CompanyID, TimeFrom, TimeTo) VALUES (5, 19, N'2021-12-19 15:11:13.000', N'2022-01-14 18:11:13.000');
+INSERT INTO u_wdrozdz.dbo.CompanyReservations (ReservationID, CompanyID, TimeFrom, TimeTo) VALUES (6, 1, N'2022-01-13 11:13:55.000', N'2022-01-13 13:14:22.000');

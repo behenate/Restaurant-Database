@@ -1,0 +1,10 @@
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (23, N'Sznycelki', 27);
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (17, N'Jabłko', 15);
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (20, N'Chilli', 11);
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (18, N'Mandarynki', 10);
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (14, N'Cola', 7);
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (22, N'Pizza Margherita', 7);
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (28, N'Krewetki', 7);
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (19, N'Ananas', 5);
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (21, N'Makaron z kurkami', 5);
+INSERT INTO dbo.TOP_PRODUCTS_QUANTITY (ProductID, ProductName, [Total Quantity]) VALUES (29, N'Łosoś', 5);

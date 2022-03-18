@@ -1,0 +1,2 @@
+INSERT INTO dbo.ONE_TIME_DISCOUNTS_REPORT_WEEK (Year, Week, [Discount ID], [Discount Percentage], [Granted times]) VALUES (2022, 3, 4, 3, 10);
+INSERT INTO dbo.ONE_TIME_DISCOUNTS_REPORT_WEEK (Year, Week, [Discount ID], [Discount Percentage], [Granted times]) VALUES (2022, 5, 4, 3, 2);

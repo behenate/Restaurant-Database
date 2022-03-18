@@ -1,0 +1,1 @@
+INSERT INTO u_wdrozdz.dbo.Administrators (EmployeeID) VALUES (1);

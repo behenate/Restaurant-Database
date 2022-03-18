@@ -1,0 +1,4 @@
+INSERT INTO dbo.ORDER_VALUES_COMPANY (OrderID, CustomerID, OrderDate, [Order Value]) VALUES (17, 1, N'2021-01-04 00:00:00.000', 67.22);
+INSERT INTO dbo.ORDER_VALUES_COMPANY (OrderID, CustomerID, OrderDate, [Order Value]) VALUES (19, 3, N'2021-08-14 00:00:00.000', 14.55);
+INSERT INTO dbo.ORDER_VALUES_COMPANY (OrderID, CustomerID, OrderDate, [Order Value]) VALUES (20, 4, N'2021-05-28 00:00:00.000', 164.9);
+INSERT INTO dbo.ORDER_VALUES_COMPANY (OrderID, CustomerID, OrderDate, [Order Value]) VALUES (27, 11, N'2021-11-06 00:00:00.000', 23);

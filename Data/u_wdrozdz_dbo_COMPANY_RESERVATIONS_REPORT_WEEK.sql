@@ -1,0 +1,3 @@
+INSERT INTO dbo.COMPANY_RESERVATIONS_REPORT_WEEK (Year, Week, ReservationsNumber, AverageDuration) VALUES (2022, 3, 3, 3.000000);
+INSERT INTO dbo.COMPANY_RESERVATIONS_REPORT_WEEK (Year, Week, ReservationsNumber, AverageDuration) VALUES (2021, 51, 1, 772.933333);
+INSERT INTO dbo.COMPANY_RESERVATIONS_REPORT_WEEK (Year, Week, ReservationsNumber, AverageDuration) VALUES (2021, 52, 1, 627.000000);

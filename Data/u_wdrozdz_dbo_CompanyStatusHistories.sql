@@ -1,0 +1,11 @@
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (1, 1, N'2022-01-10 19:58:11.000', N'2022-01-13 15:58:11.000');
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (1, 2, N'2022-01-13 15:58:11.000', null);
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (3, 1, N'2021-11-12 16:02:26.000', N'2021-11-14 16:02:26.000');
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (3, 2, N'2021-11-12 16:02:26.000', N'2021-11-13 16:02:26.000');
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (3, 3, N'2021-11-12 16:02:26.000', N'2022-01-13 20:58:11.000');
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (3, 4, N'2022-01-13 20:58:11.000', null);
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (4, 1, N'2022-01-11 15:11:13.000', N'2022-01-14 17:11:13.000');
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (4, 2, N'2022-01-14 15:11:13.000', N'2022-01-16 19:11:13.000');
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (4, 3, N'2022-01-16 19:11:13.000', null);
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (5, 1, N'2021-10-19 15:11:13.000', null);
+INSERT INTO u_wdrozdz.dbo.CompanyStatusHistories (ReservationID, StatusID, TimeFrom, TimeTo) VALUES (6, 1, N'2022-01-15 17:50:23.230', null);

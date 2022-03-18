@@ -1,0 +1,1 @@
+INSERT INTO dbo.TIMED_DISCOUNTS_REPORT_MONTH (Year, Month, [Discount ID], [Discount Percentage], [Granted times]) VALUES (2022, 1, 5, 4, 15);

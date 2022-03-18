@@ -1,0 +1,11 @@
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (1, 5);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (2, 5);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (3, 5);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (4, 5);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (5, 5);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (6, 5);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (7, 10);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (8, 10);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (9, 10);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (10, 10);
+INSERT INTO u_wdrozdz.dbo.Tables (TableID, SeatsNo) VALUES (11, 10);

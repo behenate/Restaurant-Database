@@ -1,0 +1,9 @@
+INSERT INTO u_wdrozdz.dbo.PrivateReservations (ReservationID, CustomerID, OrderID, TimeFrom, TimeTo) VALUES (5, 2, 1, N'2021-01-20 16:00:00.000', N'2021-01-20 19:00:00.000');
+INSERT INTO u_wdrozdz.dbo.PrivateReservations (ReservationID, CustomerID, OrderID, TimeFrom, TimeTo) VALUES (9, 5, 3, N'2022-01-22 18:00:00.000', N'2022-01-22 21:00:00.000');
+INSERT INTO u_wdrozdz.dbo.PrivateReservations (ReservationID, CustomerID, OrderID, TimeFrom, TimeTo) VALUES (10, 6, 5, N'2022-01-14 22:00:00.000', N'2022-01-15 02:00:00.000');
+INSERT INTO u_wdrozdz.dbo.PrivateReservations (ReservationID, CustomerID, OrderID, TimeFrom, TimeTo) VALUES (11, 7, 7, N'2021-02-16 18:32:52.000', N'2021-02-16 19:32:52.000');
+INSERT INTO u_wdrozdz.dbo.PrivateReservations (ReservationID, CustomerID, OrderID, TimeFrom, TimeTo) VALUES (13, 5, 9, N'2021-11-13 23:00:00.000', N'2021-11-13 23:50:00.000');
+INSERT INTO u_wdrozdz.dbo.PrivateReservations (ReservationID, CustomerID, OrderID, TimeFrom, TimeTo) VALUES (16, 15, 29, N'2022-01-13 11:13:55.000', N'2022-01-13 13:14:22.000');
+INSERT INTO u_wdrozdz.dbo.PrivateReservations (ReservationID, CustomerID, OrderID, TimeFrom, TimeTo) VALUES (17, 5, 1, N'2022-01-13 11:13:55.000', N'2022-01-13 13:14:22.000');
+INSERT INTO u_wdrozdz.dbo.PrivateReservations (ReservationID, CustomerID, OrderID, TimeFrom, TimeTo) VALUES (24, 2, 40, N'2022-01-24 12:24:45.400', N'2022-01-24 13:24:45.400');
+INSERT INTO u_wdrozdz.dbo.PrivateReservations (ReservationID, CustomerID, OrderID, TimeFrom, TimeTo) VALUES (33, 27, 73, N'2022-01-27 14:50:43.210', N'2022-01-27 18:54:43.210');

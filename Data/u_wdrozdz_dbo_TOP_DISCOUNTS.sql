@@ -1,0 +1,2 @@
+INSERT INTO dbo.TOP_DISCOUNTS ([Discount ID], [Discount Percentage], GrantedTimes, Type) VALUES (5, 4, 15, N'Timed');
+INSERT INTO dbo.TOP_DISCOUNTS ([Discount ID], [Discount Percentage], GrantedTimes, Type) VALUES (4, 3, 12, N'Lifetime');

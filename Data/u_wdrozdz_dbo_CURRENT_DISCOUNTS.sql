@@ -1,0 +1,12 @@
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 1, 3, N'2022-01-10 00:42:04.000', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 2, 3, N'2022-01-24 22:42:45.903', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 3, 3, N'2022-01-12 00:42:04.000', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 4, 3, N'2022-01-13 00:42:04.000', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 5, 3, N'2022-01-15 15:58:19.427', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 6, 3, N'2022-01-10 00:42:04.000', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 7, 3, N'2022-01-12 00:42:04.000', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 8, 3, N'2022-01-13 00:42:04.000', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 9, 3, N'2022-01-10 00:42:04.000', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 10, 3, N'2022-01-12 00:42:04.000', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 16, 3, N'2022-01-13 00:42:04.000', null);
+INSERT INTO dbo.CURRENT_DISCOUNTS (EntryID, CustomerID, [Discount Percentage], ActiveFrom, ActiveTo) VALUES (4, 27, 3, N'2022-01-27 13:58:06.193', null);

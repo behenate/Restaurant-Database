@@ -1,0 +1,17 @@
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (2, 1, N'Jan', N'Gleń');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (5, 3, N'Łukasz', N'Olejniczak');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (6, 4, N'Michał', N'Tomecki');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (7, null, N'Roksana', N'Kamola');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (8, null, N'Anastazja', N'Gałązka');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (9, null, N'Izabela', N'Olejnik');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (10, null, N'Alojzy', N'Bauer');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (12, 1, N'Juliusz', N'Grabek');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (15, null, N'Edward', N'Pajewski');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (16, 13, N'Bolesław', N'Wolanin');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (17, null, N'Mateusz', N'Jolanski');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (20, 19, N'Janusz', N'Firmowiec');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (21, 4, N'Sebastian', N'Voettel');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (22, null, N'Adam', N'Małysz');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (23, null, N'Wojciech', N'Drózdz');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (25, null, N'Blazej', N'Nowicki');
+INSERT INTO u_wdrozdz.dbo.PrivateCustomers (PrivateCustomerID, CompanyID, Fristname, Lastname) VALUES (27, null, N'Testowy', N'Test');

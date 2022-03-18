@@ -1,0 +1,9 @@
+INSERT INTO dbo.CUSTOMERS_THAT_CAN_MAKE_RESERVATIONS (PrivateCustomerID, Fristname, Lastname) VALUES (2, N'Jan', N'Gleń');
+INSERT INTO dbo.CUSTOMERS_THAT_CAN_MAKE_RESERVATIONS (PrivateCustomerID, Fristname, Lastname) VALUES (5, N'Łukasz', N'Olejniczak');
+INSERT INTO dbo.CUSTOMERS_THAT_CAN_MAKE_RESERVATIONS (PrivateCustomerID, Fristname, Lastname) VALUES (6, N'Michał', N'Tomecki');
+INSERT INTO dbo.CUSTOMERS_THAT_CAN_MAKE_RESERVATIONS (PrivateCustomerID, Fristname, Lastname) VALUES (7, N'Roksana', N'Kamola');
+INSERT INTO dbo.CUSTOMERS_THAT_CAN_MAKE_RESERVATIONS (PrivateCustomerID, Fristname, Lastname) VALUES (8, N'Anastazja', N'Gałązka');
+INSERT INTO dbo.CUSTOMERS_THAT_CAN_MAKE_RESERVATIONS (PrivateCustomerID, Fristname, Lastname) VALUES (9, N'Izabela', N'Olejnik');
+INSERT INTO dbo.CUSTOMERS_THAT_CAN_MAKE_RESERVATIONS (PrivateCustomerID, Fristname, Lastname) VALUES (10, N'Alojzy', N'Bauer');
+INSERT INTO dbo.CUSTOMERS_THAT_CAN_MAKE_RESERVATIONS (PrivateCustomerID, Fristname, Lastname) VALUES (25, N'Blazej', N'Nowicki');
+INSERT INTO dbo.CUSTOMERS_THAT_CAN_MAKE_RESERVATIONS (PrivateCustomerID, Fristname, Lastname) VALUES (27, N'Testowy', N'Test');

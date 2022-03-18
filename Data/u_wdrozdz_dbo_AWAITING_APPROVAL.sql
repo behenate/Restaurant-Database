@@ -1,0 +1,5 @@
+INSERT INTO dbo.AWAITING_APPROVAL (ReservationID, [Reservation Start], [Reservation End], Status) VALUES (5, N'2021-12-19 15:11:13.000', N'2022-01-14 18:11:13.000', N'Placed');
+INSERT INTO dbo.AWAITING_APPROVAL (ReservationID, [Reservation Start], [Reservation End], Status) VALUES (13, N'2021-11-13 23:00:00.000', N'2021-11-13 23:50:00.000', N'Placed');
+INSERT INTO dbo.AWAITING_APPROVAL (ReservationID, [Reservation Start], [Reservation End], Status) VALUES (17, N'2022-01-13 11:13:55.000', N'2022-01-13 13:14:22.000', N'Placed');
+INSERT INTO dbo.AWAITING_APPROVAL (ReservationID, [Reservation Start], [Reservation End], Status) VALUES (24, N'2022-01-24 12:24:45.400', N'2022-01-24 13:24:45.400', N'Placed');
+INSERT INTO dbo.AWAITING_APPROVAL (ReservationID, [Reservation Start], [Reservation End], Status) VALUES (33, N'2022-01-27 14:50:43.210', N'2022-01-27 18:54:43.210', N'Placed');

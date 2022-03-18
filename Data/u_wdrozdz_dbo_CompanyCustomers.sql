@@ -1,0 +1,9 @@
+INSERT INTO u_wdrozdz.dbo.CompanyCustomers (CompanyCustomerID, CompanyName, ContactName, HomePage) VALUES (1, N'Company A', null, null);
+INSERT INTO u_wdrozdz.dbo.CompanyCustomers (CompanyCustomerID, CompanyName, ContactName, HomePage) VALUES (3, N'Company B', null, null);
+INSERT INTO u_wdrozdz.dbo.CompanyCustomers (CompanyCustomerID, CompanyName, ContactName, HomePage) VALUES (4, N'Company C', null, null);
+INSERT INTO u_wdrozdz.dbo.CompanyCustomers (CompanyCustomerID, CompanyName, ContactName, HomePage) VALUES (11, N'Company D', null, null);
+INSERT INTO u_wdrozdz.dbo.CompanyCustomers (CompanyCustomerID, CompanyName, ContactName, HomePage) VALUES (13, N'Company E', null, null);
+INSERT INTO u_wdrozdz.dbo.CompanyCustomers (CompanyCustomerID, CompanyName, ContactName, HomePage) VALUES (14, N'Company F', null, null);
+INSERT INTO u_wdrozdz.dbo.CompanyCustomers (CompanyCustomerID, CompanyName, ContactName, HomePage) VALUES (18, N'Company G', null, null);
+INSERT INTO u_wdrozdz.dbo.CompanyCustomers (CompanyCustomerID, CompanyName, ContactName, HomePage) VALUES (19, N'Company H', null, null);
+INSERT INTO u_wdrozdz.dbo.CompanyCustomers (CompanyCustomerID, CompanyName, ContactName, HomePage) VALUES (24, N'ProcedureCompany', N'Proceduralny Pomocnik', N'www.procedury.pl');

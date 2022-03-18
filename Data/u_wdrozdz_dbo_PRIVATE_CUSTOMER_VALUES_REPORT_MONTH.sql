@@ -1,0 +1,16 @@
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 1, 2, N'Jan Gleń', 54.11, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 8, 2, N'Jan Gleń', 2.42, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 3, 5, N'Łukasz Olejniczak', 54.32, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 11, 5, N'Łukasz Olejniczak', 12.13, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 1, 5, N'Łukasz Olejniczak', 58.2, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 12, 6, N'Michał Tomecki', 89.24, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 1, 6, N'Michał Tomecki', 42.29, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 2, 7, N'Roksana Kamola', 79.54, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 5, 7, N'Roksana Kamola', 223.1, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 1, 8, N'Anastazja Gałązka', 91.76, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 3, 9, N'Izabela Olejnik', 46.56, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 7, 10, N'Alojzy Bauer', 380.24, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 4, 12, N'Juliusz Grabek', 7, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 1, 15, N'Edward Pajewski', 2, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 1, 25, N'Blazej Nowicki', 170, 2);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 2, 27, N'Testowy Test', 66.93, 1);

@@ -1,0 +1,16 @@
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 3, 2, N'Jan Gleń', 54.11, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 36, 2, N'Jan Gleń', 2.42, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 12, 5, N'Łukasz Olejniczak', 54.32, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 46, 5, N'Łukasz Olejniczak', 12.13, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 3, 5, N'Łukasz Olejniczak', 58.2, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 53, 6, N'Michał Tomecki', 89.24, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 3, 6, N'Michał Tomecki', 42.29, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 7, 7, N'Roksana Kamola', 79.54, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 22, 7, N'Roksana Kamola', 223.1, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 4, 8, N'Anastazja Gałązka', 91.76, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 10, 9, N'Izabela Olejnik', 46.56, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 31, 10, N'Alojzy Bauer', 380.24, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 17, 12, N'Juliusz Grabek', 7, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 3, 15, N'Edward Pajewski', 2, 1);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 4, 25, N'Blazej Nowicki', 170, 2);
+INSERT INTO dbo.PRIVATE_CUSTOMER_VALUES_REPORT_WEEK (Year, Week, CustomerID, Name, TotalValue, OrderCount) VALUES (2022, 6, 27, N'Testowy Test', 66.93, 1);

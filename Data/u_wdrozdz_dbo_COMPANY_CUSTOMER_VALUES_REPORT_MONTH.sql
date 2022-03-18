@@ -1,0 +1,4 @@
+INSERT INTO dbo.COMPANY_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 1, 1, N'Company A', 67.22, 1);
+INSERT INTO dbo.COMPANY_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 8, 3, N'Company B', 14.55, 1);
+INSERT INTO dbo.COMPANY_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 5, 4, N'Company C', 164.9, 1);
+INSERT INTO dbo.COMPANY_CUSTOMER_VALUES_REPORT_MONTH (Year, Month, CustomerID, Name, TotalValue, OrderCount) VALUES (2021, 11, 11, N'Company D', 23, 1);

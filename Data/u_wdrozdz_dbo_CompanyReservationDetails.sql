@@ -1,0 +1,11 @@
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (1, 1, 1, 5);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (1, 2, 1, 5);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (1, 3, 1, 5);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (3, 1, 21, 3);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (4, 3, 11, 9);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (4, 8, 11, 9);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (5, 1, 19, 5);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (5, 2, 19, 5);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (5, 3, 19, 5);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (5, 4, 19, 5);
+INSERT INTO u_wdrozdz.dbo.CompanyReservationDetails (ReservationID, TableID, CustomerID, GuestsNumber) VALUES (5, 5, 19, 5);

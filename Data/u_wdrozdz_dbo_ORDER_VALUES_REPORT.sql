@@ -1,0 +1,17 @@
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 1, 2, 67.22);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 1, 3, 54.11);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 1, 4, 91.76);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 2, 7, 79.54);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 3, 10, 46.56);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 3, 12, 54.32);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 4, 17, 7);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 5, 22, 388);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 7, 31, 380.24);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 8, 33, 14.55);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 8, 36, 2.42);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 11, 45, 23);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 11, 46, 12.13);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2021, 12, 53, 89.24);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2022, 1, 3, 102.49000000000001);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2022, 1, 4, 170);
+INSERT INTO dbo.ORDER_VALUES_REPORT (Year, Month, Week, [Order Value]) VALUES (2022, 2, 6, 66.93);

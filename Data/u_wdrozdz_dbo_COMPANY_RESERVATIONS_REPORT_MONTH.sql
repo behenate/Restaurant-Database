@@ -1,0 +1,2 @@
+INSERT INTO dbo.COMPANY_RESERVATIONS_REPORT_MONTH (Year, Month, ReservationsNumber, [Average Duration]) VALUES (2022, 1, 3, 3.000000);
+INSERT INTO dbo.COMPANY_RESERVATIONS_REPORT_MONTH (Year, Month, ReservationsNumber, [Average Duration]) VALUES (2021, 12, 2, 699.966666);

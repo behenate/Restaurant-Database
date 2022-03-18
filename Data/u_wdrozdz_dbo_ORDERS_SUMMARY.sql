@@ -1,0 +1,15 @@
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (1, 67.22, 1);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (2, 56.53, 2);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (3, 14.55, 1);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (4, 164.9, 1);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (5, 124.65, 3);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (6, 131.53, 2);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (7, 302.64, 2);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (8, 91.76, 1);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (9, 46.56, 1);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (10, 380.24, 1);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (11, 23, 1);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (12, 7, 1);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (15, 2, 1);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (25, 170, 2);
+INSERT INTO dbo.ORDERS_SUMMARY (CustomerID, [Order Value Combined], [Number of orders]) VALUES (27, 66.93, 1);

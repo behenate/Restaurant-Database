@@ -1,0 +1,2 @@
+INSERT INTO u_wdrozdz.dbo.ReservationRequirements (ConstID, ConstName, ConstValue) VALUES (1, N'WZ', 10);
+INSERT INTO u_wdrozdz.dbo.ReservationRequirements (ConstID, ConstName, ConstValue) VALUES (2, N'WK', 1);
